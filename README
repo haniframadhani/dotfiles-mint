@@ -1,0 +1,27 @@
+# Dotfiles
+
+- bash config
+- zsh config
+- powerlevel10k
+- oh-my-zsh
+- ulauncher
+- nvim
+- fastfetch
+
+## OS
+
+this dotfiles is created in linux mint 22 cinnamon
+
+## run
+
+```
+git clone https://github.com/haniframadhani/dotfiles-mint.git
+```
+
+```
+cd dotfiles-mint
+```
+
+```
+stow .
+```
